@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "name": "Test PyTorch",
+      "type": "python",
+      "request": "launch",
+      "program": "test_pytorch.py",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Test OpenCV",
+      "type": "python",
+      "request": "launch",
+      "program": "test_opencv.py",
+      "console": "integratedTerminal"
+    }
+  ]
+}
